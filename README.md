@@ -43,7 +43,7 @@ Le **Gradient Boosting** est retenu comme modèle final.
 ## Variables clés
 
 - `median_income` — le revenu médian a l'importance la plus élevée sur le prix (0.54)
-- -`population_per_household` — le nombre moyen de personnes par foyer est le 2ème facteur le plus influent (0.13)
+- `population_per_household` — le nombre moyen de personnes par foyer est le 2ème facteur le plus influent (0.13)
 - `ocean_proximity` — la proximité avec l'océan possède également une incidence significative sur le prix final (0.09)
 
 ## Limites
